@@ -1,0 +1,7 @@
+kernel,accuracy,tvd
+softmax,0.4492,0.4835
+sparsemax,0.4805,0.4798
+norm_relu,0.4062,0.4897
+topk,0.4531,0.4738
+entmax15,0.4414,0.4711
+entmax43,0.4609,0.4788
